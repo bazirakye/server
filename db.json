@@ -1,4 +1,3 @@
-
 {     
       "event" :[
         {
@@ -7,8 +6,7 @@
           "description":"find your new feline freiend at the event",
           "location":"meow town",
           "date":"January 28, 2022",
-          "time":"12:00",
-      
+          "time":"12:00"
         }     
       ]
 }
