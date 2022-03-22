@@ -1,18 +1,31 @@
-   {
-        "planned": {
-                "name": "Planned",
-                "number": 345  
-            },
-        "total_visit":{
-                "name":"Total Visite Done",
-                "number":555555
-            },
-        "avg_day": {
-                "name":"Avg/Day",
-                "number":78
-            },
-        "repeat":{
-                "name":"Repeat",
-                "number":457
-            }
-     }
+{
+      event:[
+        {
+          id:5928191,
+          category:'animal welfare',
+          description:'find your new feline freiend at the event',
+          location:'meow town',
+          date:'January 28, 2022',
+          time:'12:00',
+          petsAllowed:true,
+        },
+        {
+          id:5928192,
+          category:'animal welfare',
+          description:'find your new feline freiend at the event',
+          location:'meow town',
+          date:'January 28, 2022',
+          time:'12:00',
+          petsAllowed:true,
+        },
+        {
+          id:5928193,
+          category:'animal welfare',
+          description:'find your new feline freiend at the event',
+          location:'meow town',
+          date:'January 28, 2022',
+          time:'12:00',
+          petsAllowed:true,
+        },
+      ]
+    }
