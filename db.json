@@ -3,7 +3,7 @@
         {
           "id":5928192,
           "category":"animal welfare",
-          "description":"find your new feline freiend at the event",
+          "description":"first description",
           "location":"meow town",
           "date":"January 28, 2022",
           "time":"12:00"
@@ -11,7 +11,7 @@
             {
           "id":5928193,
           "category":"animal welfare",
-          "description":"find your new feline freiend at the event",
+          "description":"Second description",
           "location":"meow town",
           "date":"January 28, 2022",
           "time":"12:00"
@@ -19,7 +19,7 @@
             {
           "id":5928194,
           "category":"animal welfare",
-          "description":"find your new feline freiend at the event",
+          "description":"Third description",
           "location":"meow town",
           "date":"January 28, 2022",
           "time":"12:00"
